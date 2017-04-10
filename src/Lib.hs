@@ -4,4 +4,4 @@ module Lib
 
 
 someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+someFunc = putStrLn "Monads are awesome!"
