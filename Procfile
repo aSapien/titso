@@ -1,0 +1,1 @@
+web: ./dist/build/titso-exe/titso-exe
