@@ -4,9 +4,7 @@ module Lib
     ( someFunc
     ) where
 
--- import qualified Data.Text.IO as T
-import Acme.Missiles
+import qualified Data.Text.IO as T
 
 someFunc :: IO ()
-someFunc = Acme.Missiles.launchMissiles
--- someFunc = T.putStrLn "Monads are awesome!"
+someFunc = T.putStrLn "Monads are awesome!"

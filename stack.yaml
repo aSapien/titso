@@ -3,6 +3,5 @@ extra-package-dbs: []
 packages:
 - '.'
 extra-deps:
-- acme-missiles-0.3
 - text-1.2.2.1
 resolver: lts-8.9

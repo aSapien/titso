@@ -18,7 +18,6 @@ library
   exposed-modules:     Lib
   build-depends:       base >= 4.7 && < 5
                      , text
-                     , acme-missiles
                      , scotty
   default-language:    Haskell2010
 
